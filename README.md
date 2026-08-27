@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mintic-base
 
 Plantilla base del curso de Minería de Datos
@@ -68,3 +69,7 @@ python main.py
 ```
 
 `main.py` carga el dataset de prueba en `data/sample_dataset.csv` y sirve como punto de partida para importar y probar el subpaquete que estés desarrollando.
+=======
+# Data_Mining
+Work from the course of Data Mining
+>>>>>>> f35cf413bb1537451a7362631e6dd60576e17488
