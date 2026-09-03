@@ -1,75 +1,22 @@
-<<<<<<< HEAD
-# mintic-base
 
-Plantilla base del curso de Minería de Datos
+# Data mining
 
-**Pineda Lab**
+Course of data mining.
+
+**Grecia Leilani Arias Avalos**
+
 **ENES Morelia, UNAM**
 
-## Sobre el proyecto
+## About the proyect
 
-`mintic-base` es el repositorio plantilla sobre el que cada alumno construirá su propia librería de Minería de Datos. El objetivo es comprender el funcionamiento interno de los algoritmos, no únicamente usarlos.
+# Data Mining Coursework
 
-## Reglas del desarrollo
+This repository contains coursework developed throughout the "Data Mining" course. It will be updated progressively as the course advances, with new exercises, functions, and analyses added over time.
 
-- Toda la lógica de los algoritmos debe implementarse manualmente por el alumno dentro de su subpaquete correspondiente en `mintic/`.
-- La única librería numérica permitida para los cálculos del algoritmo es **NumPy**. No está permitido usar `scikit-learn`, `scipy` u otras librerías que ya implementen el algoritmo asignado.
-- `pandas` se permite únicamente para la carga y manipulación inicial de datos (lectura de CSV, por ejemplo).
-- `matplotlib` se permite para la visualización de resultados.
+## About
 
-## Estructura del repositorio
+The goal of this repository is to document and organize the practical work completed during the course.
 
-```
-.
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── main.py
-├── data/
-│   └── sample_dataset.csv
-└── mintic/
-    ├── __init__.py
-    ├── eda/
-    │   └── __init__.py
-    ├── ensemble/
-    │   └── __init__.py
-    ├── kmeans/
-    │   └── __init__.py
-    ├── dbscan/
-    │   └── __init__.py
-    ├── apriori/
-    │   └── __init__.py
-    └── pca/
-        └── __init__.py
-```
+##  Status
 
-Cada subcarpeta dentro de `mintic/` es un subpaquete de Python correspondiente a un reto del curso. El alumno desarrolla su implementación dentro del subpaquete que le sea asignado.
-
-## Clonar el repositorio
-
-Este es un repositorio privado. Para clonarlo, solicita acceso al equipo del curso y luego ejecuta:
-
-```bash
-git clone https://github.com/Pineda-Lab/mintic-base.git
-cd mintic-base
-```
-
-## Instalación
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-## Ejecución
-
-```bash
-python main.py
-```
-
-`main.py` carga el dataset de prueba en `data/sample_dataset.csv` y sirve como punto de partida para importar y probar el subpaquete que estés desarrollando.
-=======
-# Data_Mining
-Work from the course of Data Mining
->>>>>>> f35cf413bb1537451a7362631e6dd60576e17488
+Work in progress — this repository is actively updated as new topics are covered in class.
