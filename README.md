@@ -17,12 +17,6 @@ This repository contains coursework developed throughout the "Data Mining" cours
 
 The goal of this repository is to document and organize the practical work completed during the course.
 
-## Requirements
-
-```bash
-pip install pandas numpy
-```
-
 ##  Status
 
 Work in progress — this repository is actively updated as new topics are covered in class.
