@@ -4,7 +4,7 @@
 Course of data mining.
 
 **Grecia Leilani Arias Avalos**
-**greciaariaass@gmail.com
+**greciaariaass@gmail.com**
 
 **ENES Morelia, UNAM**
 
