@@ -1,6 +1,6 @@
 import pandas as pd
 
-def impute_missing(data, strategy= "mean", 
+def input_missing(data, strategy= "mean", 
 columns=None):
     if strategy=="mean":
         return mean(data, columns)
